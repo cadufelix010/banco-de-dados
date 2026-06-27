@@ -1,40 +1,39 @@
+Modelagem & Manipulação de Banco de Dados | ETEC
 
----
+Olá! Este repositório reúne meus estudos e projetos desenvolvidos na disciplina de Banco de Dados do Ensino Médio Técnico da ETEC.
 
-## README - Banco de Dados
+⸻
 
-```markdown
-# 🗄️ Banco de Dados
+🛠️ Tecnologias & Ferramentas
 
-## Sobre a Disciplina
-Esta pasta contém atividades, exercícios, diagramas e projetos relacionados à disciplina de Banco de Dados.
+* brModelo
+* MySQL
+* SQL
+* Lucidchart
 
-## Objetivos
-- Compreender conceitos fundamentais de banco de dados.
-- Modelar bancos de dados relacionais.
-- Desenvolver consultas SQL.
-- Aplicar boas práticas de modelagem e normalização.
+⸻
 
-## Conteúdos Estudados
-- Introdução a Banco de Dados
-- Modelo Entidade-Relacionamento (ER)
-- Modelo Relacional
-- Normalização
-- SQL (DDL, DML e DQL)
-- Chaves Primárias e Estrangeiras
-- Procedures e Triggers
+🚀 Meus Focos de Estudo
 
-## Tecnologias Utilizadas
-- MySQL
-- PostgreSQL
-- SQL Server
-- SQLite
+* Modelagem Conceitual (DER)
+* Modelagem Lógica
+* Chaves Primárias e Estrangeiras
+* Normalização
+* Consultas SQL
 
-## Estrutura da Pasta
+⸻
 
-```text
-banco-de-dados/
-├── scripts-sql/
-├── diagramas/
-├── exercicios/
-└── projetos/
+📂 Projetos Desenvolvidos
+
+* Banco de Dados – Biblioteca
+* Banco de Dados – Concessionária
+* Banco de Dados – Empresa
+* Banco de Dados – Floricultura
+* Banco de Dados – Hotel e Pousada
+
+⸻
+
+📫 Contato
+
+* GitHub: https://github.com/Cadufelix010
+* E-mail: Carlos2019felix@gmail.com
